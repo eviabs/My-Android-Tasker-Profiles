@@ -23,7 +23,7 @@ To add a profile, place the `.prj.xml` file on your sd card. Then open Tasker, l
 <img src="https://user-images.githubusercontent.com/14614396/44999803-9b61d480-afc8-11e8-898b-a61a8eab4466.jpg" width="50%" height="50%"  />
 
 
-## [Wallpaper Changer](https://github.com/eviabs/My-Android-Tasker-Profiles/tree/master/Wallpaper%Changer)
+## [Wallpaper Changer](https://github.com/eviabs/My-Android-Tasker-Profiles/tree/master/Wallpaper%20Changer)
 *Change wallpaper every period of time, or every screen unlock.*
 
 ## [Screenshots Edit](https://github.com/eviabs/My-Android-Tasker-Profiles/tree/master/Screenshots%20Edit)
