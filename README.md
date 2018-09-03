@@ -17,6 +17,7 @@ You are welcome to import any of my profiles, modify them and use them.
 # Profiles
 Each profile is located in a seperate *folder* and has its own *README* file.
 
+## Adding a Profile
 To add a profile, place the `.prj.xml` file on your sd card. Then open Tasker, long press on an existing profile and then press import:
 
 <img src="https://user-images.githubusercontent.com/14614396/44999803-9b61d480-afc8-11e8-898b-a61a8eab4466.jpg" width="50%" height="50%"  />
