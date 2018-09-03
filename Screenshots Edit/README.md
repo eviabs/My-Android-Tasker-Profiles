@@ -11,4 +11,4 @@ You also need to install the Tasker plugin [AutoNotification](https://play.googl
 
 
 ## Demo
-<img src="https://user-images.githubusercontent.com/14614396/45003388-b3e2e680-afea-11e8-8d0e-3f808dfcfa14.gif" width="50%" height="50%"  />
+<img src="https://user-images.githubusercontent.com/14614396/45003388-b3e2e680-afea-11e8-8d0e-3f808dfcfa14.gif" width="40%" height="40%"  />
