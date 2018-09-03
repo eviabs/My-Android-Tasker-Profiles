@@ -22,5 +22,5 @@ To add a profile, long press on an existing profile and then press import:
 <img src="https://user-images.githubusercontent.com/14614396/44999803-9b61d480-afc8-11e8-898b-a61a8eab4466.jpg" width="50%" height="50%"  />
 
 
-## [Wallpaper Changer](https://github.com/eviabs/My-Android-Tasker-Profiles/new/master/Wallpaper_Changer)
+## [Wallpaper Changer](https://github.com/eviabs/My-Android-Tasker-Profiles/tree/master/Wallpaper_Changer)
 *Lets you change wallpaper every period of time, or every screen unlock.*
